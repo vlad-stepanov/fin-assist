@@ -1,0 +1,20 @@
+{
+  "portfolio": [
+    {
+      "ticker": "GAZP.ME",
+      "quantity": 15,
+      "purchase_price": 145.30,
+      "purchase_date": "2025-01-15"
+    },
+    {
+      "ticker": "SBER.ME",
+      "quantity": 100,
+      "purchase_price": 285.50,
+      "purchase_date": "2025-03-05"
+    }
+  ],
+  "predictions": {
+    "SBER": { "signal": "Buy", "confidence": 0.78 }
+  },
+  "missing_models": ["GASP"]
+}
